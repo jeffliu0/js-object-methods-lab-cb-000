@@ -28,3 +28,5 @@ class President{
     I represent the ${politicalParty}s, and was in office ${this.yearsInOffice}.`
   }
 }
+
+var lyndonJohnson = new President("Lyndon B Johnson", "Democrat", "1963-1969", "Texas")
