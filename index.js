@@ -20,7 +20,7 @@ class President{
   }
 
   conductPressInterview(){
-    return "I am proud to be American."
+    return "I am proud to be an American."
   }
 
   sayHi(){
